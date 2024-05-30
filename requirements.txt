@@ -1,0 +1,14 @@
+PyInputPlus
+pydantic
+requests
+numpy
+pandas
+matplotlib
+openpyxl
+pandas-datareader
+yfinance
+ffn
+Flask
+gunicorn
+google-generativeai
+python-dotenv
